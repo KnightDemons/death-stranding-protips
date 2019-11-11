@@ -15,10 +15,10 @@ Seeking contributors for:
 
 ## Table of Contents
 
-1. [Transportation](/#transportation)
-  1. [Vehicle Speeds](/#vehicle-speeds)
-1. [Materials](/#materials)
-1. [Structures](/#structures)
+1. [Transportation](#transportation)
+    1. [Vehicle Speeds](#vehicle-speeds)
+1. [Materials](#materials)
+1. [Structures](#structures)
 
 
 ## Transportation
