@@ -1,4 +1,4 @@
-# death-stranding-protips
+# Death Stranding Protips
 
 This is a set of gameplay protips for navigating the Death Stranding world.
 
